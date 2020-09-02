@@ -1,0 +1,14 @@
+{
+  "name": "heroku-keep-alive",
+  "version": "1.0.0",
+  "description": "A tiny node app that keeps your free heroku apps awake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Obermeier",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0"
+  }
+}
