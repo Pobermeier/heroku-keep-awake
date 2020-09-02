@@ -24,9 +24,9 @@ Edit the following values in config.js to configure the app:
 
 All times are in UTC.
 
-| Value               | Description                                                  | Default Value   |
-| ------------------- | ------------------------------------------------------------ | --------------- |
-| UTC_KEEP_ALIVE_FROM | Start of the time window in which your apps should be pinged | 7a.m.           |
-| UTC_KEEP_ALIVE_TO   | End of the time window in which your apps should be pinged   | 11p.m.          |
-| URIS_TO_KEEP_ALIVE  | An array with the strings of all URIs                        | n/a             |
-| PING_INTERVAL       | The interval ath which your apps will be pinged              | 90000ms (15min) |
+| Value               | Description                                                  | Default Value    |
+| ------------------- | ------------------------------------------------------------ | ---------------- |
+| UTC_KEEP_ALIVE_FROM | Start of the time window in which your apps should be pinged | 7a.m.            |
+| UTC_KEEP_ALIVE_TO   | End of the time window in which your apps should be pinged   | 11p.m.           |
+| URIS_TO_KEEP_ALIVE  | An array with the strings of all URIs                        | n/a              |
+| PING_INTERVAL       | The interval ath which your apps will be pinged              | 900000ms (15min) |
