@@ -4,7 +4,7 @@
   "description": "A tiny node app that keeps your free heroku apps awake",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
   "author": "Patrick Obermeier",
   "license": "MIT",
